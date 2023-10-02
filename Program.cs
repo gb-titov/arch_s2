@@ -1,0 +1,1 @@
+﻿Console.WriteLine($"Your reward: {new RewardService().GetReward().OpenReward()}");
